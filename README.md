@@ -13,3 +13,13 @@ Herramienta para descubrir Hosts activos en una red por ICMP.
       -h, --help            show this help message and exit
       -t TARGET, --target TARGET
                             Host o rango de red a escanear, ejemplo: 192.168.1.1-100
+
+### Instalación:
+
+**Linux**
+
+`python3  pip install -r requeriments.txt`
+
+**Windows**
+
+`pip.exe install -r requeriments.txt`
